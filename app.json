@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "name": "panaderiaApp",
+    "slug": "panaderiaApp",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
